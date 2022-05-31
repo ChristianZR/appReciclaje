@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">app_sf</string>
+
+    <string name="recuperacontra">¿Olvidaste contraseña?</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+</resources>

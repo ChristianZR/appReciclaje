@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/JUAN VILCA/Desktop/proyecto.APP/appppppppppp_sf/app_sf_newrecuperarcontra/app/src/main/res/drawable/boton_r.xml" value="0.2265" />
+        <entry key="..\:/Users/JUAN VILCA/Desktop/proyecto.APP/appppppppppp_sf/app_sf_newrecuperarcontra/app/src/main/res/drawable/boton_redes.xml" value="0.2265" />
+        <entry key="..\:/Users/JUAN VILCA/Desktop/proyecto.APP/appppppppppp_sf/app_sf_newrecuperarcontra/app/src/main/res/drawable/boton_redondo.xml" value="0.2265" />
+        <entry key="..\:/Users/JUAN VILCA/Desktop/proyecto.APP/appppppppppp_sf/app_sf_newrecuperarcontra/app/src/main/res/layout/activity_registrar.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/JUAN VILCA/Desktop/proyecto.APP/appppppppppp_sf/app_sf_newrecuperarcontra/app/src/main/res/layout/activity_validar_correo.xml" value="0.22826086956521738" />
+        <entry key="..\:/proyectosandroid/appppppppppp_sf/app_sf_newrecuperarcontra/app/src/main/res/drawable/fondo_color.xml" value="0.2815" />
+        <entry key="..\:/proyectosandroid/appppppppppp_sf/app_sf_newrecuperarcontra/app/src/main/res/drawable/fondo_color_2.xml" value="0.2815" />
+        <entry key="..\:/proyectosandroid/appppppppppp_sf/app_sf_newrecuperarcontra/app/src/main/res/layout/activity_actualizar_contra.xml" value="0.36666666666666664" />
+        <entry key="..\:/proyectosandroid/appppppppppp_sf/app_sf_newrecuperarcontra/app/src/main/res/layout/activity_forgot_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/proyectosandroid/appppppppppp_sf/app_sf_newrecuperarcontra/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/proyectosandroid/appppppppppp_sf/app_sf_newrecuperarcontra/app/src/main/res/layout/activity_maps.xml" value="0.36666666666666664" />
+        <entry key="..\:/proyectosandroid/appppppppppp_sf/app_sf_newrecuperarcontra/app/src/main/res/layout/activity_principal.xml" value="0.36666666666666664" />
+        <entry key="..\:/proyectosandroid/appppppppppp_sf/app_sf_newrecuperarcontra/app/src/main/res/layout/activity_registrar.xml" value="0.18229166666666666" />
+        <entry key="..\:/proyectosandroid/appppppppppp_sf/app_sf_newrecuperarcontra/app/src/main/res/layout/activity_splash.xml" value="0.18229166666666666" />
+        <entry key="..\:/proyectosandroid/appppppppppp_sf/app_sf_newrecuperarcontra/app/src/main/res/mipmap-anydpi-v26/ic_one.xml" value="0.1965" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
