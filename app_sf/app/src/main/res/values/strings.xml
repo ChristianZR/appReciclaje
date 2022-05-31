@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">app_sf</string>
-    <string name="facebook_app_id">484224793461145</string>
-    <string name="fb_login_protocol_scheme">fb484224793461145</string>
-    <string name="hyperlink"><a href="https://www.google.com">¿Olvidaste tu contraseña?</a></string>
-    <string name="error_log">Error</string>
-    <string name="cancel_log">Cancel</string>
-</resources>
