@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_1"
+        android:title="opc1"/>
+        <!--android:icon="" -->
+    <item android:id="@+id/menu_2"
+        android:title="opc2"/>
+        <!--android:icon="" -->
+    <item android:id="@+id/menu_3"
+        android:title="opc3"/>
+        <!--android:icon="" -->
+    <item android:id="@+id/menu_4"
+        android:title="opc4"/>
+        <!--android:icon="" -->
+</menu>
